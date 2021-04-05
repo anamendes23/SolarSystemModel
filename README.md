@@ -15,3 +15,6 @@ This project was made in Unity, and it went over the following topics:
 * Materials
 * Lighting
 * Behavior, scripting
+* Cameras
+* Audio
+* Prefabs
