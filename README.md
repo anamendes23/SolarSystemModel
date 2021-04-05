@@ -18,3 +18,4 @@ This project was made in Unity, and it went over the following topics:
 * Cameras
 * Audio
 * Prefabs
+* Build and Test
